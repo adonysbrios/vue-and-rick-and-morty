@@ -9,6 +9,7 @@
   <footer>
     <p>Made by Adonys Barzaga Rios. (Education Purposes)</p>
     <a href="mailto:adonysbarzagarios@gmail.com">Contact me</a>
+    <a href="https://github.com/adonysbrios/vue-and-rick-and-morty"> GitHub </a>
   </footer>
 </template>
 
